@@ -39,6 +39,15 @@
 		{
 			"Name": "HairStrands",
 			"Enabled": true
+		},
+		{
+			"Name": "AchievementSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d9f6e0a8c92f47db9e2fde6080bed630"
+		},
+		{
+			"Name": "Text3D",
+			"Enabled": true
 		}
 	]
 }
