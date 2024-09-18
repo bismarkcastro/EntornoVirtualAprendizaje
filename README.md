@@ -1,4 +1,6 @@
 # EntornoVirtualAprendizaje
  EntornoVirtualAprendizaje T568A y T568B
 
-# ESPE sede Santo Domingo
+Para mayor información escribir a info@bismarkcastro.com
+
+# Escuela Superior Politéwcnica del Ejercito - ESPE
