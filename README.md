@@ -3,4 +3,4 @@
 
 Para mayor información escribir a info@bismarkcastro.com
 
-# Escuela Superior Politéwcnica del Ejercito - ESPE
+# Escuela Superior Politécnica del Ejercito - ESPE
